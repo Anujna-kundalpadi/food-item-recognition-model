@@ -1,4 +1,4 @@
-A **food item recognition model** is a machine learning model designed to identify different food items in an image. This type of model is commonly used in applications like diet tracking apps, automated checkout systems, and food waste monitoring systems. Here's a simplified explanation of how such a model works:
+A **food item recognition model** is a machine learning model designed to identify different food items in an image. This type of model is commonly used in applications like diet tracking apps, automated checkout systems, and food waste monitoring systems. Here's a simplified explanation of how such a model works
 
 ---
 
